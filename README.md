@@ -3,11 +3,9 @@
 # Jane Hawkins
 
 ## Education
-Data Science & Earth Science
-Computer Science Minor
+Data Science Major w/ Concentration in Earth Science
+Computer Science & Mathematics Minor
 
 ### Fun Facts About Me!!
-- I love soccer
-- I have 3 cats (I want another one though)
-- I love my bf <3
-- In my freetime I like to read and draw and color!!
+- I have a black cat anmes Louie
+- In my freetime I like to read and do art
