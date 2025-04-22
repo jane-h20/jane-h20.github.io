@@ -1,11 +1,9 @@
 # jane-h20.github.io
 
 # Jane Hawkins
+#### About Me
+My name is Jane Hawkins, and I am a third-year student at the University of Oregon. I am currently pursuing a Bachelor of Science in Data Science with a concentration in Earth science, and minors in both Computer Science and Earth Science. 
 
-## Education
-Data Science Major w/ Concentration in Earth Science
-Computer Science & Mathematics Minor
-
-### Fun Facts About Me!!
-- I have a black cat anmes Louie
+### Fun Facts About Me!
+- I have a black cat named Louie
 - In my freetime I like to read and do art
