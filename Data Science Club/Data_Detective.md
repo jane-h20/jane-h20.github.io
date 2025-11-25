@@ -1,0 +1,40 @@
+### For months now, <ins>PixelPeddler.com</ins> has been the go-to place for cheap electronics on campus. Everyone loved it — fast shipping, decent prices, and constant sales. But last week, something strange happened.
+
+
+A rumor started spreading through the CS hallway: PixelPeddler’s numbers don’t add up.
+
+**Students were noticing weird things in their orders…**
+
+> Someone received three USB cables when they ordered <ins>negative-three</ins>.
+
+> Another person ordered a monitor that weighed ${\color{red}\textsf{'kg3'}}$, whatever that means.
+
+> A friend swore their laptop cost **$0**.
+
+> And somehow, someone managed to place an order on ${\color{blue}\textsf{November 32nd}}$.
+
+
+### At first, everyone thought it was just a glitch.
+
+But then PixelPeddler’s financial sponsor—*Datacorp Analytics*—caught wind of the inconsistencies and quietly pulled the logs from the website. 
+
+What they found was… *a mess*.
+
+Orders in different currencies with no conversions. Dates that were impossible. Two versions of the same customer ordering the same item, minutes apart. Country abbreviations that might just be typos. Shipping weights listed as numbers, units, symbols, and at least one question mark. A sudden spike of exactly 1000 phone cases headed to Florida. And—most suspicious of all—a handful of orders that seemed to come from the future.
+
+Datacorp analysts couldn’t agree: *Was PixelPeddler the victim of sloppy coding?* 
+
+Or was the store covering up something bigger—like **inflated sales reports or inventory fraud**?
+
+### That’s where you come in. 
+Datacorp has hired your team of Data Detectives to audit the raw order dataset, uncover the inconsistencies, and determine what might really be going on behind the scenes.
+
+<ins>Your mission:</ins>
+- Identify the errors, contradictions, and red flags.
+- Explain how these issues could affect the store’s analytics and operations.
+- Develop a theory—a narrative—about the true cause of PixelPeddler.com’s suspicious behavior.
+- Present your case findings to the group.
+
+### Time is ticking, detectives. The store goes live for their biggest Black Friday sale tonight—and they need the truth before midnight. 
+
+## $\color{green}\textsf{Good Luck}$
