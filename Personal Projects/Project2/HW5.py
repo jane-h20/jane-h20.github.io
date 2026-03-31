@@ -1,5 +1,4 @@
 # Jane Hawkins
-# ERTH 410 Homework 5
 # CNN Using UC Merced Land Use Dataset
 
 #exec(open("HW5.py").read())
